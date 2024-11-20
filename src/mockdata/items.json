@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Eiffel Tower",
+    "description": "A wrought-iron lattice tower located on the Champ de Mars in Paris, France.",
+    "location": "Paris, France",
+    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTLB9B0j50rJbcSbdja9_hySHS6_KATbhTK_iCeWeNKtA92hTmTX5nTW3udjjovZrnU1JxqAjMS_VqHnMwHGhTs35-sU-7B29_X_T3uLV8"
+  },
+  {
+    "id": 2,
+    "name": "Great Wall of China",
+    "description": "An ancient wall built to protect China from invasions, stretching thousands of miles.",
+    "location": "China",
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQah_Q-206Xw7eIq0luTiSRC5iciAJf5wAyYyGgnKAlFfH6Q5Gy4IQ5CRUrMlCAT1sr8ENRa_6NyEFgXhE6HF8reArLsGQKFP3BfXhfqQ"
+  },
+  {
+    "id": 3,
+    "name": "Colosseum",
+    "description": "An ancient amphitheater in the center of Rome, Italy, known for gladiatorial battles.",
+    "location": "Rome, Italy",
+    "image": "https://artside.com.ua/tmp/cache/images/80/8d0/1361979278-630x432-r.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Machu Picchu",
+    "description": "A 15th-century Inca citadel located in the Andes Mountains in Peru.",
+    "location": "Cusco Region, Peru",
+    "image": "https://www.explorebyyourself.com/images/cms/thumbs/b3df99c61135781a39b4b2b07684ed9a36774b9c/machu_picchu_foto_1_940_auto_jpg__100.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Taj Mahal",
+    "description": "A white marble mausoleum built by Mughal Emperor Shah Jahan in memory of his wife.",
+    "location": "Agra, India",
+    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRPkBVHUTnTSRQLc2F1qGZZLwyZ7hzlnzRtLfImKqXXjxVN7ei_qI8TMLvyjJaFx3M_XoN-aint0dpOOjAFwAOzKTftcAH_sURzbuuIgg"
+  },
+  {
+    "id": 6,
+    "name": "Statue of Liberty",
+    "description": "A colossal neoclassical sculpture on Liberty Island in New York Harbor.",
+    "location": "New York, USA",
+    "image": "https://cdn.prod.website-files.com/63b505d326e16fdd98abf61c/66c16a8b9bb54de4aa05de73_statue%20of%20liberty%20side%20(1)-p-2000.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Christ the Redeemer",
+    "description": "An iconic statue of Jesus Christ in Rio de Janeiro, Brazil, atop Mount Corcovado.",
+    "location": "Rio de Janeiro, Brazil",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Christ_on_Corcovado_mountain.JPG/1920px-Christ_on_Corcovado_mountain.JPG"
+  },
+  {
+    "id": 8,
+    "name": "Sydney Opera House",
+    "description": "A multi-venue performing arts center with unique architectural design.",
+    "location": "Sydney, Australia",
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSVY5wHb_2TKNtrlOHN65FKuK4xCHxW-eZ1RkJRitANFzz82BfkK0SLSfphTS8DATIny2YPSFMjgF9DgY56gZe_XaxPyc7leJZb59vjzw"
+  },
+  {
+    "id": 9,
+    "name": "Pyramids of Giza",
+    "description": "Ancient pyramids built as tombs for Egyptian pharaohs, located near Cairo.",
+    "location": "Giza, Egypt",
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRRbo33YWGUh8QfhDixIl25z6bJq8QmtLo02DE66mbC6DER4hulc1aiVBJ-lxa3FMv3M1NaVeABowyIx7PpV2hpyGmusTiUyR4B-oNvQQ"
+  },
+  {
+    "id": 10,
+    "name": "Niagara Falls",
+    "description": "Three massive waterfalls on the border between Canada and the USA.",
+    "location": "Ontario, Canada / New York, USA",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7f/d6/a1/caption.jpg?w=1200&h=700&s=1&cx=2376&cy=1584&chk=v1_0a727590cdff6f062b58"
+  }
+]
